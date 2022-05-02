@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kooltivate
 - 👀 I’m interested in learning languages and technology stuff
 - 🌱 I’m currently learning Javascript, React
-- 💞️ I’m looking to collaborate on OpenSource remote projects related to help with low resources
+- 💞️ I’m looking to collaborate on OpenSource remote projects related to help communities with low resources
 - 📫 How to reach me, send me a message trougth Github
 
 <!---
